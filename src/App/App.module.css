@@ -1,6 +1,6 @@
 .main_container {
-  max-width: 1000px; /*change to min*/
-  max-height: 550px; /*change to min*/
+  max-width: 1000px; 
+  max-height: 550px; 
   background-color: white;
   border-radius: 32px;
   display: flex;
@@ -19,7 +19,7 @@
 
 
 .art_container {
-  background-image: url("../../assets/images/bg-pattern-desktop.svg");
+  background-image: url("../assets//images/bg-pattern-desktop.svg");
   background-position: right calc(100% + 165px);
   background-size: 230%;
   display: flex;
@@ -141,7 +141,6 @@ button{
     max-width: 400px;
     min-height: 600px;
     padding-top: 150px;
-    /* justify-content: center; */
     align-items: center;
     font-size: 14px;
   }
