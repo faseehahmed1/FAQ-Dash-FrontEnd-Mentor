@@ -1,11 +1,11 @@
 import classes from "./App.module.css";
-import ladyImg from "../../assets/images/illustration-woman-online-desktop.svg";
-import ladyImgMobile from "../../assets/images/illustration-woman-online-mobile.svg";
-import box from "../../assets/images/illustration-box-desktop.svg";
-import dropDownIcon from "../../assets/images/icon-arrow-down.svg";
+import ladyImg from "../assets/images/illustration-woman-online-desktop.svg";
+import ladyImgMobile from "../assets/images/illustration-woman-online-mobile.svg";
+import box from "../assets/images/illustration-box-desktop.svg";
+import dropDownIcon from "../assets/images/icon-arrow-down.svg";
 import { useState } from "react";
 import clsx from "clsx";
-import faqArray from "../../assets/FAQ";
+import faqArray from "../assets/FAQ";
 
 function App() {
   const [activeIndex, setActiveIndex] = useState(-1);

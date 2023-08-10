@@ -1,6 +1,6 @@
 # React + Vite
 
-![Desktop](../faq-accordion-card-main/assets/design/my-desktop-design.png)
+![Desktop](./src/assets/design/my-desktop-design.png)
 
 
 ## Things I learnt/came across to help me
