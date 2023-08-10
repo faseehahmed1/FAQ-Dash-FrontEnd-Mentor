@@ -13,3 +13,4 @@ Can preview an svg at https://www.svgviewer.dev/
 
 good read on responsive images https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/#using-srcset
 
+how to deploy react project
